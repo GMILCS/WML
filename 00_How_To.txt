@@ -1,0 +1,103 @@
+---Tools
+Here is a template you can work with:
+
+{
+    "label": "Your text here",
+    "description": "Your text here”,
+    "resources": [
+      "ID_Here",
+      "ID_Here",
+      "ID_Here"                    
+    ]
+}
+
+
+Construction Tools
+
+	Notepad will work but there are a lot of utilities out there to make this easier because they will enforce good syntax and differentiate elements with color.
+	Visual Studio community https://visualstudio.microsoft.com/vs/community/
+	Notepad++ https://notepad-plus-plus.org/
+	Sublime Text https://www.sublimetext.com/
+	Check to insure there are no errors at https://json-ld.org/playground/
+
+
+
+
+---MIXES
+
+
+	Video Tutorial https://www.youtube.com/watch?v=YBqaJ9V-vMI
+	
+***Individual IDs for items cannot be used.  Please stick to the below....
+
+Types of resource types to be used in a mix and prevent hiccups with your JSON files.
+		Agent
+		Collection
+		Concept
+		CopyrightEvent
+		Family
+		Form
+		Meeting
+		Organization
+		Person
+		Place
+		ProviderEvent
+		Series
+		Temporal
+		Topic
+	Navigate
+	Gather IDs
+	NOTEPAD
+	Braces, brackets, commas
+	Check with JSON-LD 
+	Upload
+	You can create your own Github account for speed
+
+-Now take
+
+***Only 13 digit ISBNs can currently be used***
+
+	Zepheira's MIX URL
+	http://collections.library.link/services/mixer/?domain=
+	
+	Your library's linked data URL with &mix
+	http://link.manchesterlibrary.org/&mix=
+
+	Your MIX's RAW address on Github
+	https://raw.githubusercontent.com/kfrench/JSON_LD/master/Cyberpunk2019.json
+
+	Merge all three together, in this order, without spaces
+	http://collections.library.link/services/mixer/?domain=http://link.manchesterlibrary.org/&mix=https://raw.githubusercontent.com/kfrench/JSON_LD/master/Cyberpunk2019.json
+
+
+	Wait
+
+---LISTS
+	Video tutorial https://youtu.be/HOv0qRkNFY0
+	
+	Gather ISBNs
+	NOTEPAD
+	Braces, brackets, commas
+	Check with JSON-LD 
+	Upload
+	You can create your own Github account for speed
+
+-Now take
+
+	Zepheira's URL
+	http://collections.library.link/services/lister/?domain=
+
+	Your library's linked data URL
+	http://link.manchesterlibrary.org/&list=
+
+	Your list's RAW address on Github
+	https://raw.githubusercontent.com/kfrench/JSON_LD/master/Cyberpunk2019.json
+
+	Merge all three together, in this order, without spaces
+	http://collections.library.link/services/lister/?domain=http://link.manchesterlibrary.org/&list=https://raw.githubusercontent.com/kfrench/JSON_LD/master/Cyberpunk2019.json
+
+
+	Wait a bit
+
+
+
